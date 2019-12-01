@@ -1,7 +1,11 @@
 Jacob Boeckenstedt
+
 Edgar Mendoza
+
 Lanea Blackburn
+
 Priya Panati
+
 
 ## How to run the project:
 
