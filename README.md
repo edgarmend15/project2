@@ -21,7 +21,10 @@ Because you can’t really tell that each data point is a painting, we also adde
 We used R to make these visualizations. We chose happiness, love, and mean because these are all positive attributes to any painting. A scatterplot was also chosen because it’s the best way to represent correlation.
 
 ## Team Roles: 
-Priya created the first visualization outlining the different ways that art has changed overtime. She used plotly to finish the interactive visualization then exported it to an HTML. 
-Lanea worked to finish part of the write up looking at different ways that we can improve the visualization to best represent the data. 
+Priya created the first visualization outlining the different ways that art has changed overtime. She used plotly to finish the interactive visualization then exported it to an HTML.
+
+Lanea worked to finish part of the write up looking at different ways that we can improve the visualization to best represent the data.
+
 Jacob created the quantitative visualization using R’s ggplot. He then was able to export that file into HTML to be able to see the visualization.
+
 Edgar reviewed both the visualizations to make them as clear as possible. In addition, he wrote part of the read me.
